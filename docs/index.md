@@ -4,7 +4,7 @@ layout: default
 
 
 - [Jupyter Notebooks for LLM Security](./Jupyter Notebooks for LLM Security)
-- [Jupyter Notebooks for LLM Security](./Jupyter%20Notebooks%20for%20LLM%20Security_.md)
+- [Jupyter Notebooks for LLM Security](./Jupyter%20Notebooks%20for%20LLM%20Security_)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
